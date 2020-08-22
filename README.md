@@ -1,4 +1,4 @@
-# Project02_Data_Wrangling
+# Project02 - Data Wrangling
 *Ulrike Anklam*
 
 *DATAFT- Berlin- August 2020*
